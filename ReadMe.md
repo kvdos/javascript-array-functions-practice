@@ -2,6 +2,8 @@
 
 Want to learn how to use JavaScript array functions like map, reduce, filter, etc? Use this worksheet and the corresponding videos to figure out how!
 
+Videos: https://www.youtube.com/playlist?list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT
+
 ## Sample Data
 
 Here's a sample piece of Star Wars data from the [Star Wars API](https://swapi.dev/).
